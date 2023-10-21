@@ -7,6 +7,7 @@ A device with a Wiegand  interface is connected to the microcontroller via pins 
 If you want change Wiegand type at 26 to another, you may change some variables in code:
 
 uint32_t w26_data = 0;
+
 uint8_t w26_receive_data_length = 26;
 
 int32_t w26_recieve_data;													   
