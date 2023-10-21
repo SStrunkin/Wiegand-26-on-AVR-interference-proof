@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DoxySettings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SettingsFile>C:\work\Modul_Chtenia_Kart_Dostupa\Soft\Atmel_Studio\Modul_Chtenia_Kart_Dostupa\Modul_Chtenia_Kart_Dostupa\doxySettings.xml</SettingsFile>
+  <ProjectName>Modul_Chtenia_Kart_Dostupa</ProjectName>
+  <DoxyExePath>C:\Program Files\doxygen\bin\doxygen.exe</DoxyExePath>
+  <UseDefaultSettings>true</UseDefaultSettings>
+  <GenerateAsPartOfBuild>false</GenerateAsPartOfBuild>
+  <ConfigFilePath>C:\work\Modul_Chtenia_Kart_Dostupa\Soft\Atmel_Studio\Modul_Chtenia_Kart_Dostupa\Modul_Chtenia_Kart_Dostupa\doxyfile</ConfigFilePath>
+  <OutputDirPath>C:\work\Modul_Chtenia_Kart_Dostupa\Soft\Atmel_Studio\Modul_Chtenia_Kart_Dostupa\Modul_Chtenia_Kart_Dostupa\doxygen</OutputDirPath>
+  <ShowErrorsAndWarnings>false</ShowErrorsAndWarnings>
+</DoxySettings>

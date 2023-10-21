@@ -1,0 +1,707 @@
+Archive member included to satisfy reference by file (symbol)
+
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+                              C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega168pa/avr5/crtatmega168pa.o (exit)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+                              wiegand_26.o (__do_copy_data)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+                              main.o (__do_clear_bss)
+
+Allocating common symbols
+Common symbol       size              file
+
+w26_recieve_data    0x4               WIEGAND26.o
+d1_status           0x1               wiegand_26.o
+w26_middle_byte     0x1               WIEGAND26.o
+programm_status_byte
+                    0x1               main.o
+w26_last_byte       0x1               WIEGAND26.o
+d0_status           0x1               wiegand_26.o
+w26_facility        0x1               WIEGAND26.o
+
+Discarded input sections
+
+ .data          0x00000000        0x0 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega168pa/avr5/crtatmega168pa.o
+ .bss           0x00000000        0x0 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega168pa/avr5/crtatmega168pa.o
+ .text          0x00000000        0x0 EEPROM.o
+ .data          0x00000000        0x0 EEPROM.o
+ .bss           0x00000000        0x0 EEPROM.o
+ .text.get_modbus_parity
+                0x00000000        0xa EEPROM.o
+ .text.set_modbus_parity
+                0x00000000        0xc EEPROM.o
+ .text.get_modbus_stop_bits
+                0x00000000        0xa EEPROM.o
+ .text.set_modbus_stop_bits
+                0x00000000        0xc EEPROM.o
+ .text.get_modbus_speed
+                0x00000000       0x72 EEPROM.o
+ .text.set_modbus_speed
+                0x00000000       0x4c EEPROM.o
+ .text.get_modbus_address
+                0x00000000        0xa EEPROM.o
+ .text.set_modbus_address
+                0x00000000        0xc EEPROM.o
+ .text.set_w26_LOW_phase
+                0x00000000        0xc EEPROM.o
+ .text.set_w26_HIGH_phase
+                0x00000000        0xc EEPROM.o
+ .text          0x00000000        0x0 eeprom_.o
+ .data          0x00000000        0x0 eeprom_.o
+ .bss           0x00000000        0x0 eeprom_.o
+ .text.EEPROM_write_byte
+                0x00000000       0x1c eeprom_.o
+ .text          0x00000000        0x0 LEDs.o
+ .data          0x00000000        0x0 LEDs.o
+ .bss           0x00000000        0x0 LEDs.o
+ .text          0x00000000        0x0 main.o
+ .data          0x00000000        0x0 main.o
+ .bss           0x00000000        0x0 main.o
+ .text          0x00000000        0x0 sleep_mode.o
+ .data          0x00000000        0x0 sleep_mode.o
+ .bss           0x00000000        0x0 sleep_mode.o
+ .text          0x00000000        0x0 UART.o
+ .data          0x00000000        0x0 UART.o
+ .bss           0x00000000        0x0 UART.o
+ .text.USART_Receive
+                0x00000000        0xe UART.o
+ .text.USART_Flush
+                0x00000000       0x10 UART.o
+ .text.UART_RX_int_DISABLE
+                0x00000000        0xc UART.o
+ .text.UART_RX_int_ENABLE
+                0x00000000       0x10 UART.o
+ .text          0x00000000        0x0 watchdog.o
+ .data          0x00000000        0x0 watchdog.o
+ .bss           0x00000000        0x0 watchdog.o
+ .text          0x00000000        0x0 WIEGAND26.o
+ .data          0x00000000        0x0 WIEGAND26.o
+ .bss           0x00000000        0x0 WIEGAND26.o
+ .text          0x00000000        0x0 wiegand_26.o
+ .data          0x00000000        0x0 wiegand_26.o
+ .bss           0x00000000        0x0 wiegand_26.o
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+text             0x00000000         0x00004000         xr
+data             0x00800100         0x00000400         rw !x
+eeprom           0x00810000         0x00000200         rw !x
+fuse             0x00820000         0x00000003         rw !x
+lock             0x00830000         0x00000400         rw !x
+signature        0x00840000         0x00000400         rw !x
+user_signatures  0x00850000         0x00000400         rw !x
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+Address of section .data set to 0x800100
+LOAD C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega168pa/avr5/crtatmega168pa.o
+LOAD EEPROM.o
+LOAD eeprom_.o
+LOAD LEDs.o
+LOAD main.o
+LOAD sleep_mode.o
+LOAD UART.o
+LOAD watchdog.o
+LOAD WIEGAND26.o
+LOAD wiegand_26.o
+START GROUP
+LOAD c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a
+END GROUP
+START GROUP
+LOAD c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a
+LOAD c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a
+LOAD c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a
+LOAD C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega168pa/avr5\libatmega168pa.a
+END GROUP
+                [0x00000000]                __TEXT_REGION_ORIGIN__ = DEFINED (__TEXT_REGION_ORIGIN__)?__TEXT_REGION_ORIGIN__:0x0
+                [0x00800100]                __DATA_REGION_ORIGIN__ = DEFINED (__DATA_REGION_ORIGIN__)?__DATA_REGION_ORIGIN__:0x800060
+                [0x00004000]                __TEXT_REGION_LENGTH__ = DEFINED (__TEXT_REGION_LENGTH__)?__TEXT_REGION_LENGTH__:0x20000
+                [0x00000400]                __DATA_REGION_LENGTH__ = DEFINED (__DATA_REGION_LENGTH__)?__DATA_REGION_LENGTH__:0xffa0
+                [0x00000200]                __EEPROM_REGION_LENGTH__ = DEFINED (__EEPROM_REGION_LENGTH__)?__EEPROM_REGION_LENGTH__:0x10000
+                [0x00000003]                __FUSE_REGION_LENGTH__ = DEFINED (__FUSE_REGION_LENGTH__)?__FUSE_REGION_LENGTH__:0x400
+                0x00000400                __LOCK_REGION_LENGTH__ = DEFINED (__LOCK_REGION_LENGTH__)?__LOCK_REGION_LENGTH__:0x400
+                0x00000400                __SIGNATURE_REGION_LENGTH__ = DEFINED (__SIGNATURE_REGION_LENGTH__)?__SIGNATURE_REGION_LENGTH__:0x400
+                0x00000400                __USER_SIGNATURE_REGION_LENGTH__ = DEFINED (__USER_SIGNATURE_REGION_LENGTH__)?__USER_SIGNATURE_REGION_LENGTH__:0x400
+
+.hash
+ *(.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rel.init
+ *(.rel.init)
+
+.rela.init
+ *(.rela.init)
+
+.rel.text
+ *(.rel.text)
+ *(.rel.text.*)
+ *(.rel.gnu.linkonce.t*)
+
+.rela.text
+ *(.rela.text)
+ *(.rela.text.*)
+ *(.rela.gnu.linkonce.t*)
+
+.rel.fini
+ *(.rel.fini)
+
+.rela.fini
+ *(.rela.fini)
+
+.rel.rodata
+ *(.rel.rodata)
+ *(.rel.rodata.*)
+ *(.rel.gnu.linkonce.r*)
+
+.rela.rodata
+ *(.rela.rodata)
+ *(.rela.rodata.*)
+ *(.rela.gnu.linkonce.r*)
+
+.rel.data
+ *(.rel.data)
+ *(.rel.data.*)
+ *(.rel.gnu.linkonce.d*)
+
+.rela.data
+ *(.rela.data)
+ *(.rela.data.*)
+ *(.rela.gnu.linkonce.d*)
+
+.rel.ctors
+ *(.rel.ctors)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rel.dtors
+ *(.rel.dtors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rel.got
+ *(.rel.got)
+
+.rela.got
+ *(.rela.got)
+
+.rel.bss
+ *(.rel.bss)
+
+.rela.bss
+ *(.rela.bss)
+
+.rel.plt
+ *(.rel.plt)
+
+.rela.plt
+ *(.rela.plt)
+
+.text           0x00000000      0x5d6
+ *(.vectors)
+ .vectors       0x00000000       0x68 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega168pa/avr5/crtatmega168pa.o
+                0x00000000                __vector_default
+                0x00000000                __vectors
+ *(.vectors)
+ *(.progmem.gcc*)
+                0x00000068                . = ALIGN (0x2)
+                0x00000068                __trampolines_start = .
+ *(.trampolines)
+ .trampolines   0x00000068        0x0 linker stubs
+ *(.trampolines*)
+                0x00000068                __trampolines_end = .
+ *libprintf_flt.a:*(.progmem.data)
+ *libc.a:*(.progmem.data)
+ *(.progmem*)
+                0x00000068                . = ALIGN (0x2)
+ *(.jumptables)
+ *(.jumptables*)
+ *(.lowtext)
+ *(.lowtext*)
+                0x00000068                __ctors_start = .
+ *(.ctors)
+                0x00000068                __ctors_end = .
+                0x00000068                __dtors_start = .
+ *(.dtors)
+                0x00000068                __dtors_end = .
+ SORT(*)(.ctors)
+ SORT(*)(.dtors)
+ *(.init0)
+ .init0         0x00000068        0x0 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega168pa/avr5/crtatmega168pa.o
+                0x00000068                __init
+ *(.init0)
+ *(.init1)
+ *(.init1)
+ *(.init2)
+ .init2         0x00000068        0xc C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega168pa/avr5/crtatmega168pa.o
+ *(.init2)
+ *(.init3)
+ *(.init3)
+ *(.init4)
+ .init4         0x00000074       0x16 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+                0x00000074                __do_copy_data
+ .init4         0x0000008a       0x10 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+                0x0000008a                __do_clear_bss
+ *(.init4)
+ *(.init5)
+ *(.init5)
+ *(.init6)
+ *(.init6)
+ *(.init7)
+ *(.init7)
+ *(.init8)
+ *(.init8)
+ *(.init9)
+ .init9         0x0000009a        0x8 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega168pa/avr5/crtatmega168pa.o
+ *(.init9)
+ *(.text)
+ .text          0x000000a2        0x4 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega168pa/avr5/crtatmega168pa.o
+                0x000000a2                __vector_22
+                0x000000a2                __vector_24
+                0x000000a2                __vector_12
+                0x000000a2                __bad_interrupt
+                0x000000a2                __vector_6
+                0x000000a2                __vector_3
+                0x000000a2                __vector_23
+                0x000000a2                __vector_25
+                0x000000a2                __vector_11
+                0x000000a2                __vector_13
+                0x000000a2                __vector_17
+                0x000000a2                __vector_19
+                0x000000a2                __vector_7
+                0x000000a2                __vector_5
+                0x000000a2                __vector_4
+                0x000000a2                __vector_9
+                0x000000a2                __vector_21
+                0x000000a2                __vector_15
+                0x000000a2                __vector_8
+                0x000000a2                __vector_10
+                0x000000a2                __vector_18
+                0x000000a2                __vector_20
+                0x000000a6                . = ALIGN (0x2)
+ *(.text.*)
+ .text.get_w26_LOW_phase
+                0x000000a6        0xa EEPROM.o
+                0x000000a6                get_w26_LOW_phase
+ .text.get_w26_HIGH_phase
+                0x000000b0        0xa EEPROM.o
+                0x000000b0                get_w26_HIGH_phase
+ .text.EEPROM_read_byte
+                0x000000ba       0x16 eeprom_.o
+                0x000000ba                EEPROM_read_byte
+ .text.LEDs_ini
+                0x000000d0        0x8 LEDs.o
+                0x000000d0                LEDs_ini
+ .text.Blink_DEBUG_LED
+                0x000000d8        0xe LEDs.o
+                0x000000d8                Blink_DEBUG_LED
+ .text.main     0x000000e6       0x3e main.o
+                0x000000e6                main
+ .text.sleep    0x00000124       0x16 sleep_mode.o
+                0x00000124                sleep
+ .text.USART_Ini
+                0x0000013a       0x16 UART.o
+                0x0000013a                USART_Ini
+ .text.USART_Transmit
+                0x00000150        0xe UART.o
+                0x00000150                USART_Transmit
+ .text.watchdog_ini
+                0x0000015e       0x20 watchdog.o
+                0x0000015e                watchdog_ini
+ .text.watchdog_disable
+                0x0000017e       0x1a watchdog.o
+                0x0000017e                watchdog_disable
+ .text.w26_get_data_from_messege
+                0x00000198       0x36 WIEGAND26.o
+                0x00000198                w26_get_data_from_messege
+ .text.send_w26_data_to_uart
+                0x000001ce       0x1a WIEGAND26.o
+                0x000001ce                send_w26_data_to_uart
+ .text.Weigand_26_D0_D1_int_ini
+                0x000001e8       0x5c wiegand_26.o
+                0x000001e8                Weigand_26_D0_D1_int_ini
+ .text.Weigand_26_low_phase_ini
+                0x00000244       0x3e wiegand_26.o
+                0x00000244                Weigand_26_low_phase_ini
+ .text.Weigand_26_high_phase_ini
+                0x00000282       0x3e wiegand_26.o
+                0x00000282                Weigand_26_high_phase_ini
+ .text.Weigand_26_TIMER0_ini
+                0x000002c0        0x8 wiegand_26.o
+                0x000002c0                Weigand_26_TIMER0_ini
+ .text.Weigand_26_ini
+                0x000002c8        0xa wiegand_26.o
+                0x000002c8                Weigand_26_ini
+ .text.__vector_2
+                0x000002d2       0xca wiegand_26.o
+                0x000002d2                __vector_2
+ .text.__vector_1
+                0x0000039c       0xc4 wiegand_26.o
+                0x0000039c                __vector_1
+ .text.__vector_14
+                0x00000460       0xd0 wiegand_26.o
+                0x00000460                __vector_14
+ .text.__vector_16
+                0x00000530       0xa2 wiegand_26.o
+                0x00000530                __vector_16
+                0x000005d2                . = ALIGN (0x2)
+ *(.fini9)
+ .fini9         0x000005d2        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+                0x000005d2                _exit
+                0x000005d2                exit
+ *(.fini9)
+ *(.fini8)
+ *(.fini8)
+ *(.fini7)
+ *(.fini7)
+ *(.fini6)
+ *(.fini6)
+ *(.fini5)
+ *(.fini5)
+ *(.fini4)
+ *(.fini4)
+ *(.fini3)
+ *(.fini3)
+ *(.fini2)
+ *(.fini2)
+ *(.fini1)
+ *(.fini1)
+ *(.fini0)
+ .fini0         0x000005d2        0x4 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ *(.fini0)
+                0x000005d6                _etext = .
+
+.data           0x00800100        0x2 load address 0x000005d6
+                0x00800100                PROVIDE (__data_start, .)
+ *(.data)
+ *(.data*)
+ .data.w26_receive_data_length
+                0x00800100        0x1 wiegand_26.o
+                0x00800100                w26_receive_data_length
+ *(.gnu.linkonce.d*)
+ *(.rodata)
+ *(.rodata*)
+ *(.gnu.linkonce.r*)
+                0x00800102                . = ALIGN (0x2)
+ *fill*         0x00800101        0x1 
+                0x00800102                _edata = .
+                0x00800102                PROVIDE (__data_end, .)
+
+.bss            0x00800102       0x13
+                0x00800102                PROVIDE (__bss_start, .)
+ *(.bss)
+ *(.bss*)
+ .bss.w26_HIGH_phase
+                0x00800102        0x1 wiegand_26.o
+                0x00800102                w26_HIGH_phase
+ .bss.w26_LOW_phase
+                0x00800103        0x1 wiegand_26.o
+                0x00800103                w26_LOW_phase
+ .bss.w26_receive_bit_counter
+                0x00800104        0x1 wiegand_26.o
+                0x00800104                w26_receive_bit_counter
+ .bss.w26_data  0x00800105        0x4 wiegand_26.o
+                0x00800105                w26_data
+ .bss.d1_expect_rising_falling
+                0x00800109        0x1 wiegand_26.o
+                0x00800109                d1_expect_rising_falling
+ .bss.d0_expect_rising_falling
+                0x0080010a        0x1 wiegand_26.o
+                0x0080010a                d0_expect_rising_falling
+ *(COMMON)
+ COMMON         0x0080010b        0x1 main.o
+                0x0080010b                programm_status_byte
+ COMMON         0x0080010c        0x7 WIEGAND26.o
+                0x0080010c                w26_recieve_data
+                0x00800110                w26_middle_byte
+                0x00800111                w26_last_byte
+                0x00800112                w26_facility
+ COMMON         0x00800113        0x2 wiegand_26.o
+                0x00800113                d1_status
+                0x00800114                d0_status
+                0x00800115                PROVIDE (__bss_end, .)
+                0x000005d6                __data_load_start = LOADADDR (.data)
+                0x000005d8                __data_load_end = (__data_load_start + SIZEOF (.data))
+
+.noinit         0x00800115        0x0
+                [!provide]                PROVIDE (__noinit_start, .)
+ *(.noinit*)
+                [!provide]                PROVIDE (__noinit_end, .)
+                0x00800115                _end = .
+                [!provide]                PROVIDE (__heap_start, .)
+
+.eeprom         0x00810000        0x0
+ *(.eeprom*)
+                0x00810000                __eeprom_end = .
+
+.fuse
+ *(.fuse)
+ *(.lfuse)
+ *(.hfuse)
+ *(.efuse)
+
+.lock
+ *(.lock*)
+
+.signature
+ *(.signature*)
+
+.user_signatures
+ *(.user_signatures*)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x00000000       0x30
+ *(.comment)
+ .comment       0x00000000       0x30 EEPROM.o
+                                 0x31 (size before relaxing)
+ .comment       0x00000030       0x31 eeprom_.o
+ .comment       0x00000030       0x31 LEDs.o
+ .comment       0x00000030       0x31 main.o
+ .comment       0x00000030       0x31 sleep_mode.o
+ .comment       0x00000030       0x31 UART.o
+ .comment       0x00000030       0x31 watchdog.o
+ .comment       0x00000030       0x31 WIEGAND26.o
+ .comment       0x00000030       0x31 wiegand_26.o
+
+.note.gnu.avr.deviceinfo
+                0x00000000       0x40
+ .note.gnu.avr.deviceinfo
+                0x00000000       0x40 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega168pa/avr5/crtatmega168pa.o
+
+.note.gnu.build-id
+ *(.note.gnu.build-id)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x00000000      0x200
+ *(.debug_aranges)
+ .debug_aranges
+                0x00000000       0x78 EEPROM.o
+ .debug_aranges
+                0x00000078       0x28 eeprom_.o
+ .debug_aranges
+                0x000000a0       0x28 LEDs.o
+ .debug_aranges
+                0x000000c8       0x20 main.o
+ .debug_aranges
+                0x000000e8       0x20 sleep_mode.o
+ .debug_aranges
+                0x00000108       0x48 UART.o
+ .debug_aranges
+                0x00000150       0x28 watchdog.o
+ .debug_aranges
+                0x00000178       0x28 WIEGAND26.o
+ .debug_aranges
+                0x000001a0       0x60 wiegand_26.o
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x00000000     0x138d
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x00000000      0x5f4 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega168pa/avr5/crtatmega168pa.o
+ .debug_info    0x000005f4      0x41d EEPROM.o
+ .debug_info    0x00000a11       0xd9 eeprom_.o
+ .debug_info    0x00000aea       0x97 LEDs.o
+ .debug_info    0x00000b81      0x180 main.o
+ .debug_info    0x00000d01       0x82 sleep_mode.o
+ .debug_info    0x00000d83      0x144 UART.o
+ .debug_info    0x00000ec7      0x11d watchdog.o
+ .debug_info    0x00000fe4      0x117 WIEGAND26.o
+ .debug_info    0x000010fb      0x292 wiegand_26.o
+
+.debug_abbrev   0x00000000      0xb7f
+ *(.debug_abbrev)
+ .debug_abbrev  0x00000000      0x5a2 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega168pa/avr5/crtatmega168pa.o
+ .debug_abbrev  0x000005a2       0xf5 EEPROM.o
+ .debug_abbrev  0x00000697       0x8b eeprom_.o
+ .debug_abbrev  0x00000722       0x4f LEDs.o
+ .debug_abbrev  0x00000771       0x9f main.o
+ .debug_abbrev  0x00000810       0x4f sleep_mode.o
+ .debug_abbrev  0x0000085f       0xd5 UART.o
+ .debug_abbrev  0x00000934       0xc6 watchdog.o
+ .debug_abbrev  0x000009fa       0x95 WIEGAND26.o
+ .debug_abbrev  0x00000a8f       0xf0 wiegand_26.o
+
+.debug_line     0x00000000      0xe20
+ *(.debug_line .debug_line.* .debug_line_end)
+ .debug_line    0x00000000      0x134 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega168pa/avr5/crtatmega168pa.o
+ .debug_line    0x00000134      0x21a EEPROM.o
+ .debug_line    0x0000034e      0x10a eeprom_.o
+ .debug_line    0x00000458       0xbd LEDs.o
+ .debug_line    0x00000515      0x13a main.o
+ .debug_line    0x0000064f       0xb9 sleep_mode.o
+ .debug_line    0x00000708      0x15d UART.o
+ .debug_line    0x00000865      0x133 watchdog.o
+ .debug_line    0x00000998       0xea WIEGAND26.o
+ .debug_line    0x00000a82      0x39e wiegand_26.o
+
+.debug_frame    0x00000000      0x414
+ *(.debug_frame)
+ .debug_frame   0x00000000       0xfc EEPROM.o
+ .debug_frame   0x000000fc       0x34 eeprom_.o
+ .debug_frame   0x00000130       0x34 LEDs.o
+ .debug_frame   0x00000164       0x24 main.o
+ .debug_frame   0x00000188       0x24 sleep_mode.o
+ .debug_frame   0x000001ac       0x74 UART.o
+ .debug_frame   0x00000220       0x34 watchdog.o
+ .debug_frame   0x00000254       0x34 WIEGAND26.o
+ .debug_frame   0x00000288      0x18c wiegand_26.o
+
+.debug_str      0x00000000      0x777
+ *(.debug_str)
+ .debug_str     0x00000000      0x208 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega168pa/avr5/crtatmega168pa.o
+ .debug_str     0x00000208      0x27a EEPROM.o
+                                0x2bb (size before relaxing)
+ .debug_str     0x00000482       0x20 eeprom_.o
+                                0x1d7 (size before relaxing)
+ .debug_str     0x000004a2       0x25 LEDs.o
+                                0x1b0 (size before relaxing)
+ .debug_str     0x000004c7       0x93 main.o
+                                0x240 (size before relaxing)
+ .debug_str     0x0000055a       0x12 sleep_mode.o
+                                0x1a3 (size before relaxing)
+ .debug_str     0x0000056c       0x67 UART.o
+                                0x20a (size before relaxing)
+ .debug_str     0x000005d3       0x36 watchdog.o
+                                0x1e8 (size before relaxing)
+ .debug_str     0x00000609       0x4d WIEGAND26.o
+                                0x220 (size before relaxing)
+ .debug_str     0x00000656      0x121 wiegand_26.o
+                                0x340 (size before relaxing)
+
+.debug_loc      0x00000000      0x589
+ *(.debug_loc)
+ .debug_loc     0x00000000      0x246 EEPROM.o
+ .debug_loc     0x00000246       0x58 eeprom_.o
+ .debug_loc     0x0000029e       0x3a UART.o
+ .debug_loc     0x000002d8       0x14 watchdog.o
+ .debug_loc     0x000002ec      0x29d wiegand_26.o
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges   0x00000000      0x170
+ *(.debug_ranges)
+ .debug_ranges  0x00000000       0x68 EEPROM.o
+ .debug_ranges  0x00000068       0x18 eeprom_.o
+ .debug_ranges  0x00000080       0x18 LEDs.o
+ .debug_ranges  0x00000098       0x10 main.o
+ .debug_ranges  0x000000a8       0x10 sleep_mode.o
+ .debug_ranges  0x000000b8       0x38 UART.o
+ .debug_ranges  0x000000f0       0x18 watchdog.o
+ .debug_ranges  0x00000108       0x18 WIEGAND26.o
+ .debug_ranges  0x00000120       0x50 wiegand_26.o
+
+.debug_macro
+ *(.debug_macro)
+OUTPUT(Modul_Chtenia_Kart_Dostupa.elf elf32-avr)
+LOAD linker stubs
