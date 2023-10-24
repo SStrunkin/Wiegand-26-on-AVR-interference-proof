@@ -1,4 +1,4 @@
-# Wiegand 26-on-AVR
+# Wiegand 26-on-AVR interference-proof.
 Firmware for AVR ATmega168 microcontroller
 
 A device with a Wiegand  interface is connected to the microcontroller via pins INT0 (Data0) and INT1 (Data1).
